@@ -49,4 +49,4 @@ Plans to implement additional Twine features (more than displaying the descripti
 
 ## Created by
 
-Jason Francis
+Sonny Kim
